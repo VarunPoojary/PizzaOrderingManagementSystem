@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace PizzaOrderMgmtSystem.Exceptions
+namespace projectpizzaordering.entites
 {
-    public class Class1
+    internal class USersInRoles
     {
     }
 }
